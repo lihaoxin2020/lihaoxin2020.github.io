@@ -25,7 +25,7 @@ I'm also an ex-intern at [Kotoba Tech](https://www.kotoba.tech/), a fast-growing
 [04.2025] We are hosting [New England NLP Symposium (NENLP2025)](https://nenlp.github.io/spr2025/) at Yale! Come and join us! \
 [11.2024] Present [Summarization-Based Document IDs for Generative Retrieval with Language Models](https://arxiv.org/abs/2311.08593) at EMNLP 2024: NLP for Wikipedia. \
 [09.2024] Start PhD at Yale.  \
-[06.2024] Intern at Kotoba Tech, Tokyo Japan. \
+[06.2024] Intern at [Kotoba Tech](https://www.kotoba.tech/en/home), Tokyo Japan. \
 [07.2023] Present [NarrowBERT](https://arxiv.org/abs/2301.04761) at ACL 2023. [Video Talk](https://lihaoxin2020.github.io/talks/)
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/JxWmLIPPRIg?si=dP1iuvZGVznbkSJD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
