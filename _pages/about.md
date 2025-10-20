@@ -17,8 +17,13 @@ I'm also an ex-intern at [Kotoba Tech](https://www.kotoba.tech/), a fast-growing
 \
 **Event**
 
-[04.2025] We are hosting [New England NLP Symposium (NENLP2025)](https://nenlp.github.io/spr2025/) at Yale! Come and join us! 
-[11.2024] Present [Summarization-Based Document IDs for Generative Retrieval with Language Models](https://arxiv.org/abs/2311.08593) at EMNLP 2024: NLP for Wikipedia. 
+[08.2025] Published [SciRIFF: A Resource to Enhance Language Model Instruction-Following over Scientific Literature](/publications/) at EMNLP 2025 (Main Conference). \
+[08.2025] Preprint [Demystifying Scientific Problem-Solving in LLMs by Probing Knowledge and Reasoning](https://arxiv.org/abs/2508.19202). \
+[07.2025] Published [Multi-Perspective Integration via Mixture-of-Agents for Enhanced Healthcare QA Summarization](/publications/) at NAACL 2025 (Workshop: CL4Health). \
+[07.2025] Present [Tutorial: Evaluation of LLM-based Agents](https://github.com/Asaf-Yehudai/LLM-Agent-Evaluation-Survey) at IJCAI 2025 Montreal. \
+[06.2025] Preprint [Survey on Evaluation of LLM-based Agents](https://arxiv.org/abs/2503.16416). \
+[04.2025] We are hosting [New England NLP Symposium (NENLP2025)](https://nenlp.github.io/spr2025/) at Yale! Come and join us! \
+[11.2024] Present [Summarization-Based Document IDs for Generative Retrieval with Language Models](https://arxiv.org/abs/2311.08593) at EMNLP 2024: NLP for Wikipedia. \
 [09.2024] Start PhD at Yale.  \
 [06.2024] Intern at Kotoba Tech, Tokyo Japan. \
 [07.2023] Present [NarrowBERT](https://arxiv.org/abs/2301.04761) at ACL 2023. [Video Talk](https://lihaoxin2020.github.io/talks/)

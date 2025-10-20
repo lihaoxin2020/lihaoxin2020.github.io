@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-See [here](https://lihaoxin2020.github.io/files/alan_li-250326.pdf).
+See [here](https://lihaoxin2020.github.io/files/cv_10192025.pdf).
 
 <!-- Education
 ======
