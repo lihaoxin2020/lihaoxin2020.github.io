@@ -14,9 +14,13 @@ Previously, I obtained my Bachelor's and Master's degree from Combined BS/MS pro
 
 I'm also an ex-intern at [Kotoba Tech](https://www.kotoba.tech/), a fast-growing startup focusing on audio AI system in Tokyo, Japan! Check out their exciting demo on [X](https://x.com/kotoba_tech)! 
 
+I'll be interning with the Amazon AGI team in Arlington, VA.
+
 \
 **Event**
 
+[07.2026] Published [A Survey on Evaluation of LLM-based Agents](https://aclanthology.org/2026.findings-acl.1330/) in Findings of ACL 2026. \
+[04.2026] Our paper [Demystifying Scientific Problem-Solving in LLMs by Probing Knowledge and Reasoning](https://arxiv.org/abs/2508.19202) was accepted to ICML 2026. \
 [08.2025] Published [SciRIFF: A Resource to Enhance Language Model Instruction-Following over Scientific Literature](/publications/) at EMNLP 2025 (Main Conference). \
 [08.2025] Preprint [Demystifying Scientific Problem-Solving in LLMs by Probing Knowledge and Reasoning](https://arxiv.org/abs/2508.19202). \
 [07.2025] Published [Multi-Perspective Integration via Mixture-of-Agents for Enhanced Healthcare QA Summarization](/publications/) at NAACL 2025 (Workshop: CL4Health). \

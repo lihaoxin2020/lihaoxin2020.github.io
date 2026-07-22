@@ -5,20 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-### 2025
+### 2026
 
 * <span style="color:navy">Demystifying Scientific Problem-Solving in LLMs by Probing Knowledge and Reasoning</span>
 <br>
 **Alan Li**∗, Yixin Liu∗, Arpan Sarkar, Doug Downey, Arman Cohan \\
-*Preprint. Under Review.* \
+*ICML 2026: Main Conference* \
 [Paper](https://arxiv.org/abs/2508.19202){: .btn .btn--info .btn--small}
 
-
-* <span style="color:navy">Survey on Evaluation of LLM-based Agents</span>
+* <span style="color:navy">A Survey on Evaluation of LLM-based Agents</span>
 <br>
-Asaf Yehudai, Lilach Edelstein, **Alan Li**, Guy Uziel, Yilun Zhao, Roy Bar-Haim, Arman Cohan, Michal Shmueli-Scheuer \\
-*Preprint. Under Review.* \\
-[Paper](https://arxiv.org/abs/2503.16416){: .btn .btn--info .btn--small}
+Asaf Yehudai, Lilach Eden, **Alan Li**, Guy Uziel, Yilun Zhao, Roy Bar-Haim, Arman Cohan, Michal Shmueli-Scheuer \\
+*Findings of ACL 2026* \\
+[Paper](https://aclanthology.org/2026.findings-acl.1330/){: .btn .btn--info .btn--small}
+
+### 2025
 
 * <span style="color:navy">Multi-Perspective Integration via Mixture-of-Agents for Enhanced Healthcare QA Summarization</span>
 <br>
