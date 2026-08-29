@@ -19,8 +19,9 @@ I'll be interning with the Amazon AGI team in Arlington, VA.
 \
 **Event**
 
-[07.2026] Published [A Survey on Evaluation of LLM-based Agents](https://aclanthology.org/2026.findings-acl.1330/) in Findings of ACL 2026. \
+[06.2026] Start internship at Amazon AGI in Arlington, VA. \
 [04.2026] Our paper [Demystifying Scientific Problem-Solving in LLMs by Probing Knowledge and Reasoning](https://arxiv.org/abs/2508.19202) was accepted to ICML 2026. \
+[04.2026] Our paper [A Survey on Evaluation of LLM-based Agents](https://aclanthology.org/2026.findings-acl.1330/) was accepted to Findings of ACL 2026. \
 [08.2025] Published [SciRIFF: A Resource to Enhance Language Model Instruction-Following over Scientific Literature](/publications/) at EMNLP 2025 (Main Conference). \
 [08.2025] Preprint [Demystifying Scientific Problem-Solving in LLMs by Probing Knowledge and Reasoning](https://arxiv.org/abs/2508.19202). \
 [07.2025] Published [Multi-Perspective Integration via Mixture-of-Agents for Enhanced Healthcare QA Summarization](/publications/) at NAACL 2025 (Workshop: CL4Health). \
